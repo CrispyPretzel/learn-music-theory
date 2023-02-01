@@ -1,0 +1,94 @@
+MUSIC THEORY
+------------
+
+- Scales (Key)
+    - whole steps and half steps
+    - distance between notes "b" and "c" and "e" and "f" are half step no note in between
+    - formula for a scale(key)
+    	(EACH NUMBER IS THE AMOUNT OF HALF NOTES)
+	(AFTER EACH ROOT NOTE)
+	(Example C major: C then use the formula D E F G A B then C
+	- Major: 2 2 1 2 2 2 1
+	- Minor: 2 1 2 2 1 2 2
+	- Harmonic Minor: 2 1 2 2 1 3 1 
+    - Black keys have 2 names
+	- depends which note it's in between
+	- if black key == left of white note = (white note) flat
+	- if black key == right of white note = (white note) sharp
+
+- Chords
+    - three notes minimum
+    - Short-hand explanation: starting note then every other note but in the key
+      of what you chose
+    - Major/Minor
+	- two notes are called intervals
+	- first interval determines whether chord is major or minor
+	- each interval has a name
+	- major 3rd = 4 half steps from root
+	- minor 3rd = 3 half steps from root
+	- the third note will depend on first interval: major is 3 half steps from the middle note
+	  minor is 4 half steps from the middle note	
+	- In other words chords are made of a root note a third and a fifth
+	  but it has to be in key
+	- The chord patterns: I(1) ii(2) iii(3) IV(4) V(5) vi(6) vii*(7(diminished)) where the Roman numeral is capitalized it's major 
+	  the Roman numeral is lowercase it's a minor
+	- I ii IV V vi are common chords in conversion pop harmony
+	- Example: play in C major with a chord progression of I-V-vi-IV (or IV-V-vi-I)
+		This means only play the notes in the key of C major then play the chords in that key that is asked
+    - Inversions
+	- move the 5th to the bottom
+	- you can also move the 3rd and put it on the bottom
+	- you can rearrange it in any order?
+	- to make chord progression more advance use inversions to connect chords
+	    - that is chords share a note
+	    - notes are closer together = better transition
+    - Major 7th chord
+	- seventh note of the scale
+	- distance between the root note and the last note of a scale is a 7th
+    - Chords can continue on to 9th and 11th
+    - Some chords resolve into others easily
+	- V and vi have resolve into the I 
+    -Basic composition of a song
+	- Chords
+	- Bass: the root note of the chord
+	- Melody: any note in the scale but the keys in the chord is a safe bet
+	- Drums	
+
+- Rhythm
+    - Tempo: beats per minute
+	- Metronome: higher pitch click is the down beat
+    - Time signature?
+    - Time signature of 4/4 bars are made of 4 beats
+    - A basic rhythm with drums:
+	- high hat on 1/8 (two high hat hits per beat)
+	- kick on the down beat (beats 1 and 3)
+	- snare on beats 2 and 4
+    - Subdivide the beats
+	- Each beat can be cut in half
+	- then it can be cut in half again and again
+	- it's all fractions 1/4 1/8 1/16 1/32 and so on
+    - Melodies can be subdivided as well
+	- Creating steady note on top of the down beat (strong beat)
+	- Can move the steady beat to the offbeat as well to create a different feel
+    - Chord Progressions
+	- 1 bar is not long enough for a chord progression
+	- 2 bars is too short its odd
+	- 3 bars is not even
+	- 4 bars is nice and even
+	- Can also subdivide each chord just like drums and melodies
+	- Use spaces to create "bounce"
+	- Use note length and rate of the note to create different feels in the music
+     - Triplets:
+	- Combined with 1/8 notes and/or stutters
+
+- Ear Training
+    - Being able to recognize a note in different octaves
+    - Recognize minor 2nds or perfect 5th
+	- It helps with identifying the scale
+    - Octaves sound like Over the Rainbow
+    - Perfect 5th sounds like Star Wars
+    - Minor 2nds sound like Jaws
+    - Listen for the chord progression
+    - Website for helping with ear training: teoria.com
+
+- Practice music sheets
